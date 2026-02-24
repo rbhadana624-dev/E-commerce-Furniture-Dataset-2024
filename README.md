@@ -118,18 +118,3 @@ This project demonstrates a complete end-to-end Data Analysis and Machine Learni
 The findings provide actionable recommendations for pricing optimization and shipping strategy improvements in the e-commerce furniture marketplace.
 
 ---
-
-## 🚀 Portfolio Highlights
-
-✔ Business-focused data storytelling  
-✔ Clean and structured EDA  
-✔ Revenue and KPI analysis  
-✔ Feature engineering with TF-IDF  
-✔ Model building and evaluation  
-✔ Professional reporting  
-
----
-
-## 📬 Contact
-
-If you’d like to discuss this project or collaborate, feel free to connect.
